@@ -47,8 +47,9 @@ Contrôles : 28 communes, 272 IRIS dans 23 communes, 254 IRIS d'habitation, 16 I
 
 ## Fichiers
 
+## Fichiers
 - `pauvrete_bordeaux.pbix` : le rapport Power BI.
-- `captures/` : une capture par page.
+- `01_vue_ensemble.jpg` à `04_prestations.jpg` : une capture par page.
 
 ## Auteur
 
