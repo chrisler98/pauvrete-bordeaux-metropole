@@ -46,10 +46,11 @@ Contrôles : 28 communes, 272 IRIS dans 23 communes, 254 IRIS d'habitation, 16 I
 - Les prestations sociales sont comptées dans le revenu disponible : la relation avec le taux de pauvreté est en partie mécanique et ne prouve pas de cause.
 
 ## Fichiers
+
 - `pauvrete_bordeaux.pbix` : le rapport Power BI.
 - `01_vue_ensemble.jpg` à `04_prestations.jpg` : une capture par page.
 
-- ## Aperçu
+## Aperçu
 
 ![Vue d'ensemble](01_vue_ensemble.jpg)
 ![Les quartiers](02_quartiers.jpg)
