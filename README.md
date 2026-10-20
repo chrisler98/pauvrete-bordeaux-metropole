@@ -49,6 +49,13 @@ Contrôles : 28 communes, 272 IRIS dans 23 communes, 254 IRIS d'habitation, 16 I
 - `pauvrete_bordeaux.pbix` : le rapport Power BI.
 - `01_vue_ensemble.jpg` à `04_prestations.jpg` : une capture par page.
 
+- ## Aperçu
+
+![Vue d'ensemble](01_vue_ensemble.jpg)
+![Les quartiers](02_quartiers.jpg)
+![Les écarts](03_ecarts.jpg)
+![Pauvreté et prestations sociales](04_prestations.jpg)
+
 ## Auteur
 
 Christophe Ago, Master 2 Économiste Analyste des Données pour le Développement, Université de Bordeaux.
